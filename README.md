@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Azhar Albaaqi Fadhullah and I'm a Machine Learning Engineer, from Bandung</h2>
+<h2 align="left">Hi 👋! My name is Azhar Albaaqi F and I'm a Machine Learning Engineer, from Bandung</h2>
 
 ###
 
